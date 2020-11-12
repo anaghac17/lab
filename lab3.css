@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	align-items: center;
+}
+body{
+	text-align: center;
+	background-color: #FF4A8F;
+	height: 100vh;
+	color: black;
+}
+h1{
+	background-color: #FF4A8F;
+
+}
+form{
+	background-color: white;
+	padding: 15px;
+	margin: 20px 361px 0 344px;
+}
